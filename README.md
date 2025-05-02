@@ -15,7 +15,7 @@ An alternative display version is available at [PayloadsAllTheThingsWeb](https:/
   <img src="https://raw.githubusercontent.com/swisskyrepo/PayloadsAllTheThings/master/.github/banner.png" alt="banner">
 </p>
 
-## :book: Documentation
+## :book: Documentation.
 
 Every section contains the following files, you can use the `_template_vuln` folder to create a new chapter:
 
